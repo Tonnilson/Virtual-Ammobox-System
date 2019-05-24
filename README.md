@@ -26,12 +26,12 @@ Welcome and thank you for the interest in Virtual Ammobox System (VAS). This add
 
 VAS was written by [Tonic](https://github.com/TAWTonic), originally an an isolated script to compliment the release of a specific mission. However, after it reached the initial success and a wide adoption among Arma 3 community, the VAS author has decided to made the entire source code available publicly - for everyone to use, modify and contribute to its ongoing development.
 
-###Goals
+### Goals
 * Provide a viable alternative to [Arsenal](https://community.bistudio.com/wiki/Arsenal) — the native solution from [BIS](http://www.bistudio.com/)
 * Save players the time spent browsing the in-game inventory, through focus on the speed and ease of UI interaction.
 * Deal with possible network lag issues, related to the way inventory management is handled in code.
 
-###Installation
+### Installation
 The system is very easy to integrate into your own mission — simply, copy it to your mission folder and add the following lines to your **description.ext**:
 ```hpp
 #include "VAS\menu.hpp"
@@ -54,7 +54,7 @@ Use of Virtual Ammobox System (VAS) in missions published on [Steam Workshop](ht
 
 VAS is intended for mission designers to be integrated into their own work, and is not to be released separately (as is) via the Workshop or elsewhere.
 
-###Special Thanks
+### Special Thanks
 * [Dslyecxi](http://dslyecxi.com/) for his Paper Doll script, giving me insight on how to detect item types.
 * [Kronzky](http://www.kronzky.info/) for his string function library.
 * [Robalo](http://arma-sr.bzbit.com/) for providing code changes to help support the new compatibleItems class structure.
