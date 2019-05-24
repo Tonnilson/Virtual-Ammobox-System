@@ -52,7 +52,7 @@ That's it! Now when you look at your new ammunition box in-game, the mouse-wheel
 ### License <a name="license"></a>
 Use of Virtual Ammobox System (VAS) in missions published on [Steam Workshop](http://steamcommunity.com/app/107410/workshop/?l=english) is allowed. Republishing of the system is fine so long as original links are included.
 
-VAS is intended for mission designers to be integrated into their own work, and is not to be released separately (as is) via the Workshop or elsewhere.
+VAS is intended for mission designers to be integrated into their own work, and is not to be released separately (as is) via the Workshop.
 
 ### Special Thanks
 * [Dslyecxi](http://dslyecxi.com/) for his Paper Doll script, giving me insight on how to detect item types.
