@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/badge/BIF-thread-lightgrey.svg?style=flat"
          alt="BIF Thread" />
   </a>
-  <a href="https://raw.githubusercontent.com/TAWTonic/VAS/master/changelog.txt">
-    <img src="http://img.shields.io/badge/Version-2.9-blue.svg?style=flat"
+  <a href="https://raw.githubusercontent.com/Tonnilson/VAS/master/changelog.txt">
+    <img src="http://img.shields.io/badge/Version-2.91-blue.svg?style=flat"
          alt="Changelog" />
   </a>
   <a href="http://www.armaholic.com/page.php?id=19134">
@@ -24,7 +24,7 @@
 
 Welcome and thank you for the interest in Virtual Ammobox System (VAS). This addon provides Arma 3 players with a user-friendly alternative to the default interface for handling of personal gear loadout —&nbsp;ammo, guns &amp; items.
 
-VAS was written by [Tonic](https://github.com/TAWTonic), originally an an isolated script to compliment the release of a specific mission. However, after it reached the initial success and a wide adoption among Arma 3 community, the VAS author has decided to made the entire source code available publicly - for everyone to use, modify and contribute to its ongoing development.
+VAS was written by [Tonic](https://github.com/Tonnilson), originally an an isolated script to compliment the release of a specific mission. However, after it reached the initial success and a wide adoption among Arma 3 community, the VAS author has decided to made the entire source code available publicly - for everyone to use, modify and contribute to its ongoing development.
 
 ### Goals
 * Provide a viable alternative to [Arsenal](https://community.bistudio.com/wiki/Arsenal) — the native solution from [BIS](http://www.bistudio.com/)
