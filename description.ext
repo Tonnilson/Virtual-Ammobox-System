@@ -1,0 +1,12 @@
+OnLoadMission = "Virtual Ammobox System";
+respawn = BASE;
+respawndelay = 10;
+disabledAI = true;
+enableDebugConsole = 2;
+
+#include "VAS\menu.hpp"
+
+class CfgFunctions
+{
+	#include "VAS\cfgfunctions.hpp"
+};

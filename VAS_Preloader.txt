@@ -1,0 +1,6 @@
+The Virtual Ammobox System Preloader (VASP) is a simple mission / utility for those that are having long load times while using addons such as ACRE. All you need to do is drag the
+VAS_Preloader.Stratis.pbo to either your missions directory or MPMissions directory and whenever you are fixing to get into a large Co-Op mission or whatever with ACRE/Other large 
+addons just play the VAS_Preloader mission first and let it preload information for VAS, once it's completed you will have a hint and you're ready to go. Long load times should
+no longer be a problem.
+
+It is a simplistic concept and it's the best work-around that I can provide.
