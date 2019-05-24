@@ -12,8 +12,8 @@
     <img src="http://img.shields.io/badge/Download-1_MB-green.svg?style=flat"
          alt="Download" />
   </a>
-  <a href="https://github.com/TAWTonic/VAS/issues">
-    <img src="http://img.shields.io/github/issues-raw/TAWTonic/VAS.svg?label=Issues&style=flat"
+  <a href="https://github.com/Tonnilson/Virtual-Ammobox-System/issues">
+    <img src="http://img.shields.io/github/issues-raw/Tonnilson/Virtual-Ammobox-System.svg?label=Issues&style=flat"
          alt="Issues" />
   </a>
   <a href="#license">
